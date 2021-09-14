@@ -5,7 +5,7 @@
 </a>
 
 
-<br />
+<br>
 
 
 
@@ -20,3 +20,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek351&show_icons=true&locale=en" alt="abhishek351" /></p>
