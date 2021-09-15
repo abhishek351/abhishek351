@@ -5,20 +5,19 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="350" />
 
 
-
-
 ### Let's Connect :coffee:
-<hr>
+<hr/>
 <p>
-	<a href="https://github.com/abhishek351"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-yadav-52a739195"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/i_m_.abhishekk._/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://github.com/abhishek351"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/abhishek-yadav-52a739195"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/i_m_.abhishekk._/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
 
 
 <h3> 💻 About Me </h3>
+<hr/>
 
 
 - 🔭 &nbsp; I’m currently doing Open source Contributions & Data structure and algorithms.
