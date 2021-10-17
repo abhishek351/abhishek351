@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Abhishek
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning+Enthusiast;;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;;)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="350" />
@@ -20,7 +20,7 @@
 <hr/>
 
 
-- 🔭 &nbsp; I’m currently doing Open source Contributions & Data structure and algorithms.
+- 🔭 &nbsp; I’m currently doing Open source Contributions.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 📫 How to reach me **abhishek291013@gmail.com**
 - 🎓 &nbsp; Studying Computer Science
