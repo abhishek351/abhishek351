@@ -2,7 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;;)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="350" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" />
+
 
 
 ### Let's Connect :coffee:
