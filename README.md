@@ -24,7 +24,7 @@
 - 🔭 &nbsp; I’m currently doing Open source Contributions.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 📫 How to reach me **abhishek291013@gmail.com**
-- 🎓 &nbsp; Studying Computer Science
+- 🎓 &nbsp; Studying Information Technology.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
