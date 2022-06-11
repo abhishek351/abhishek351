@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Abhishek
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px" height="25px">, I'm Abhishek
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;Artificial+Intelligence;)
 
 
