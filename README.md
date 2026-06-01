@@ -70,9 +70,7 @@ I'm an AI Engineer focused on building production-ready AI applications using **
 
 <p align="left">
 
-<a href="https://github.com/abhishek351">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <a href="https://www.linkedin.com/in/abhishek-yadav-52a739195">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
