@@ -1,10 +1,11 @@
+
 # 👋 Hi, I'm Abhishek Yadav
 
 <div align="center">
 
-### AI Engineer  | Building Production-Ready AI Systems
+### AI Engineer | Generative AI Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;LLM+Application+Developer;Agentic+AI+Systems;RAG+%26+Knowledge+Engineering;Building+AI+Products+at+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;LLM+Application+Developer;Agentic+AI+Systems;RAG+Engineer;Building+AI+Products" />
 
 </div>
 
@@ -12,101 +13,56 @@
 
 ## 🚀 About Me
 
-I'm an AI Engineer specializing in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI Systems**.
+I'm an AI Engineer focused on building production-ready AI applications using **LLMs, RAG, AI Agents, and modern GenAI frameworks**.
 
-I enjoy building intelligent applications that transform complex workflows into automated, scalable AI-powered solutions.
-
-### Current Focus
-
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 Large Language Model Applications
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Automation & Workflow Orchestration
-- 📚 Knowledge Engineering
-- 🚀 Production AI Infrastructure
+- 🤖 Building AI Agents & Agentic Workflows
+- 🔍 Developing RAG Applications
+- 🧠 Working with Large Language Models
+- ⚡ Creating AI-Powered Automation Solutions
+- 🌱 Exploring Multi-Agent Systems & AI Infrastructure
 
 ---
 
-## 💼 Core Expertise
+## 💡 Core Expertise
+
+- 🤖 Generative AI & LLM Engineering
+- 🔍 RAG & Knowledge Retrieval Systems
+- ⚡ AI Agents & Workflow Automation
+- 🧠 Prompt Engineering & Evaluation
+- 📊 Vector Databases & Semantic Search
+
+---
+
+## 🛠️ Tech Stack
 
 ### Generative AI
 
-- OpenAI GPT Models
-- Claude
-- Gemini
-- Llama Models
-- Prompt Engineering
-- Fine-Tuning
-- Function Calling
-- Structured Outputs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
 
-### AI Frameworks
+### AI & Backend
 
-- LangChain
-- LangGraph
-- LlamaIndex
-- CrewAI
-- AutoGen
-- DSPy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### AI Architecture
+### Databases & Vector Stores
 
-- RAG Pipelines
-- Agentic Workflows
-- Multi-Agent Systems
-- Vector Search
-- Semantic Retrieval
-- Evaluation Frameworks
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=for-the-badge)
 
-### Backend & Deployment
+### DevOps & Tools
 
-- Python
-- FastAPI
-- Django
-- Docker
-- PostgreSQL
-- MongoDB
-- Redis
-- Linux
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nodejs,mongodb,postgres,docker,git,linux,tensorflow" />
-</p>
-
-### AI & GenAI Ecosystem
-
-```text
-LLMs           : GPT-4o, Claude, Gemini, Llama
-Frameworks     : LangChain, LangGraph, CrewAI, AutoGen
-Vector DBs     : Pinecone, ChromaDB, Weaviate, FAISS
-Backend        : Python, FastAPI, Django
-Databases      : PostgreSQL, MongoDB, Redis
-Deployment     : Docker, Linux, Cloud Platforms
-```
-
----
-
-## 🎯 What I Build
-
-### 🤖 AI Agents
-
-Autonomous AI systems capable of reasoning, planning, and executing tasks using tools, memory, and workflows.
-
-### 🔍 RAG Applications
-
-Knowledge assistants powered by semantic search, vector databases, and enterprise document retrieval.
-
-### 💬 Conversational AI
-
-Production-grade chatbots, AI copilots, and domain-specific assistants.
-
-### ⚙️ AI Automation
-
-End-to-end AI workflows that automate business processes and repetitive operations.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -123,33 +79,24 @@ End-to-end AI workflows that automate business processes and repetitive operatio
 </a>
 
 <a href="mailto:abhishek291013@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek351&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek351&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek351&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek351&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek351&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🏆 Professional Goals
-
-- Build impactful AI products used by real users
-- Contribute to open-source AI ecosystems
-- Advance Agentic AI and autonomous workflows
-- Develop scalable enterprise-grade GenAI solutions
-- Share knowledge through technical writing and community contributions
 
 ---
 
@@ -160,3 +107,4 @@ End-to-end AI workflows that automate business processes and repetitive operatio
 **AI Engineer • Generative AI Developer • Open Source Contributor**
 
 </div>
+
